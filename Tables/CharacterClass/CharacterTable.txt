@@ -1,7 +1,7 @@
-Eirika
-Seth
-Gilliam
-Franz
+Eirika_def
+Seth_def
+Gilliam_def
+Franz_Def
 Moulder
 Vanessa
 Ross
