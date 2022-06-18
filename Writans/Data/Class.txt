@@ -1,0 +1,275 @@
+## PrinceName
+Prince[X]
+
+## PrinceDesc
+.[X]
+
+## LordKnightName
+Lord Knight[X]
+
+## LordKnightDesc
+.[X]
+
+## HuntressName
+Huntress[X]
+
+## HuntressDesc
+.[X]
+
+## LadyKnightName
+Lady Knight[X]
+
+## LadyKnightDesc
+.[X]
+
+## WardKnightName
+Ward Knight[X]
+
+## WardKnightDesc
+.[X]
+
+## GoldKnightName
+Gold Knight[X]
+
+## GoldKnightDesc
+.[X]
+
+## SpearSoldierName
+Spear Soldier[X]
+
+## SpearSoldierDesc
+.[X]
+
+## AxeSoldierName
+Axe Soldier[X]
+
+## AxeSoldierDesc
+.[X]
+
+## HalberdierName
+Halberdier[X]
+
+## HalberdierDesc
+.[X]
+
+## SwordMercName
+Sword Merc[X]
+
+## SwordMercDesc
+.[X]
+
+## AxeMercName
+Axe Merc[X]
+
+## AxeMercDesc
+.[X]
+
+## VeteranName
+Veteran[X]
+
+## AxeFighterName
+Axe Fighter[X]
+
+## AxeFighterDesc
+.[X]
+
+## BowFighterName
+Bow Fighter[X]
+
+## BowFighterDesc
+.[X]
+
+## BrigandName
+Brigand[X]
+
+## BrigandDesc
+.[X]
+
+## PirateName
+Pirate[X]
+
+## PirateDesc
+.[X]
+
+## PrivateerName
+Privateer[X]
+
+## PrivateerDesc
+.[X]
+
+## VanguardName
+Vanguard[X]
+
+## VanguardDesc
+.[X]
+
+## RearguardName
+Rearguard[X]
+
+## RearguardDesc
+.[X]
+
+## GeneralName
+General[X]
+
+## GeneralDesc
+.[X]
+
+## ArcherName
+Archer[X]
+
+## ArcherDesc
+.[X]
+
+## SniperName
+Sniper[X]
+
+## SniperDesc
+.[X]
+
+## DuelistName
+Duelist[X]
+
+##DuelistDesc
+.[X]
+
+## DreadFighterName
+Dread Fighter[X]
+
+## DreadFighterDesc
+.[X]
+
+## ThiefName
+Thief[X]
+
+## ThiefDesc
+.[X]
+
+## RogueName
+Rogue[X]
+
+## RogueDesc
+.[X]
+
+## OutlawName
+Outlaw[X]
+
+## OutlawDesc
+.[X]
+
+## HighwaymanName
+Highwayman[X]
+
+## HighwaymanDesc
+.[X]
+
+## MageName
+Mage[X]
+
+## MageDesc
+.[X]
+
+## SageName
+Sage[X]
+
+## SageDesc
+.[X]
+
+## ShamanName
+Shaman[X]
+
+## ShamanDesc
+.[X]
+
+## WarlockName
+Warlock[X]
+
+## WarlockDesc
+.[X]
+
+## HealerName
+Healer[X]
+
+## HealerDesc
+.[X]
+
+## TrobaritzName
+Trobaritz[X]
+
+## TrobaritzDesc
+.[X]
+
+## TroubadourName
+Troubadour[X]
+
+## TroubadourDesc
+.[X]
+
+## SwordCavName
+Sword Cav[X]
+
+## SwordCavDesc
+.[X]
+
+## ForrestKnightName
+Forrest Knight[X]
+
+## ForrestKnightDesc
+.[X]
+
+## LanceCavName
+Lance Cav[X]
+
+## LanceCavDesc
+.[X]
+
+## DukeKnightName
+Duke Knight[X]
+
+## DukeKnightDesc
+.[X]
+
+## AxeCavName
+Axe Cav[X]
+
+## AxeCavDesc
+.[X]
+
+## RookKnightName
+Rook Knight[X]
+
+## SwordPegName
+Sword Peg[X]
+
+## SwordPegDesc
+.[X]
+
+## LancePegName
+Lance Peg[X]
+
+## LancePegDesc
+.[X]
+
+## SeraphName
+Seraph[X]
+
+## SeraphDesc
+.[X]
+
+## LanceWyvernName
+Lance Wyvern[X]
+
+## LanceWyvernDesc
+.[X]
+
+## AxeWyvernName
+Axe Wyvern[X]
+
+## AxeWyvernDesc
+.[X]
+
+## DragoonName
+Dragoon[X]
+
+## DragoonDesc
+.[X]

@@ -1,0 +1,137 @@
+// Gem Weapons
+
+## RubySwordName
+Ruby Sword[X]
+
+## SapphireLanceName
+Sapphire Lance[X]
+
+## EmeraldAxeName
+Emerald Axe[X]
+
+## GemWeaponDesc
+Doubles Weapon Triangle.[X]
+
+//Prfs and Effectives
+
+## RegalRapierName
+Regal Rapier[X]
+
+## RegalRapierDesc
+Horse and Armor Effective.[N] 
+x2 Strikes.[X]
+
+## CutlassName
+Cutlass[X]
+
+## CutlassDesc
+x2 Strikes.[X]
+
+## EstocName
+Estoc[X]
+
+## EstocDesc
+Armor Effective.[N]
+x2 Strikes.[X]
+
+## AuruoName
+Auruo[X]
+
+## AuruoDesc
+Attilio Only. Magic.[N]
++7 Res when Equip.[X]
+
+## ArgentoName
+Argento[X]
+
+## ArgentoDesc
+Kassamir Only. Magic.[N]
++7 Res when Equip.[X]
+
+//Spears and Lances
+
+## IronSpearName
+Iron Spear[X]
+
+## SlimSpearName
+Slim Spear[X]
+
+## SteelSpearName
+Steel Spear[X]
+ 
+## SilverSpearName
+Silver Spear[X]
+
+## ArmorsplinterName
+Armorsplinter[X]
+
+## PilumName
+Pilum[X]
+
+## LanceDesc
+Cannot Counter or[N]
+Be Countered.[X]
+
+//Axes
+
+## HurlbatName
+Hurlbat[X]
+
+## IronPoleaxeName
+Iron Poleaxe[X]
+
+## SteelPoleaxeName
+Steel Poleaxe[X]
+
+## SilverPoleaxeName
+Silver Poleaxe[X]
+
+//Bows
+
+## HuntingBowName
+Hunting Bow[X]
+
+## HuntingBowDesc
+Horse and Flier Effective.[X]
+
+## CleaveBowName
+Cleave Bow[X]
+
+## CleaveBowDesc
+Armor and Flier Effective.[X]
+
+## GreatbowName
+Greatbow[X]
+
+## HawkeyeBowName
+Hawkeye Bow[X]
+
+//Staves
+
+## SigilName
+Sigil[X]
+
+## SigilDesc
+Creates a Light Rune.[X]
+
+## AnewName
+Anew[X]
+
+## AnewDesc
+Allows a unit[N] 
+to move again.[X]
+
+//Items
+
+## PeerageSealName
+Peerage Seal[X]
+
+## LightRuneName
+Light Rune[X]
+
+## LightRuneDesc
+Create a barrier[N]
+for 3 turns.[X]
+
+## LightRuneUseText
+Create a barrier.[X]

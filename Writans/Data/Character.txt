@@ -1,0 +1,95 @@
+## AttilioName
+Attilio[X]
+
+## AttilioDesc
+.[X]
+
+## KassamirName
+Kassamir[X]
+
+## KassamirDesc
+.[X]
+
+## NebirosName
+Nebiros[X]
+
+## NebirosDesc
+.[X]
+
+## BelialName
+Belial[X]
+
+## BelialDesc
+.[X]
+
+## IgaName
+Iga[X]
+
+## IgaDesc
+.[X]
+
+## IzaName
+Iza[X]
+
+## IzaDesc
+.[X]
+
+## CzciborName
+Czcibor[X]
+
+## CzciborDesc
+.[X]
+
+## MaeraName
+Maera[X]
+
+## MaeraDesc
+.[X]
+
+## RutaName
+Ruta[X]
+
+## RutaDesc
+.[X]
+
+## WiolettName
+Wiolett[X]
+
+## WiolettDesc
+.[X]
+
+## FolkeName
+Folke[X]
+
+## FolkeDesc
+.[X]
+
+## ChiefName
+Chief[X]
+
+## ChiefDesc
+.[X]
+
+## NiavName
+Niav[X]
+
+## NiavDesc
+.[X]
+
+## DobromikName
+Dobromik[X]
+
+## DobromikDesc
+.[X]
+
+## MorriganName
+Morrigan[X]
+
+## MorriganDesc
+.[X]
+
+## LauritzaName
+Lauritza[X]
+
+## LauritzaDesc
+.[X]
