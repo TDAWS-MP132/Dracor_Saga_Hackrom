@@ -9,7 +9,7 @@ ORG EndSpace
 #include "Writans/_MasterTextInstaller.event"
 
 //Spritans
-//#include "Spritans/_MasterSpritansInstaller.event"
+#include "Spritans/_MasterSpritansInstaller.event"
 
 //Sound
 //#include "Sound/_SoundTable/SoundTable.event"

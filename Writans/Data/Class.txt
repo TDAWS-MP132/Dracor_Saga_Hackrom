@@ -46,6 +46,12 @@ Axe Soldier[X]
 ## AxeSoldierDesc
 .[X]
 
+## DeserterName
+Deserter[X]
+
+## DeserterDesc
+.[X]
+
 ## HalberdierName
 Halberdier[X]
 
@@ -67,6 +73,9 @@ Axe Merc[X]
 ## VeteranName
 Veteran[X]
 
+## VeteranDesc
+.[X]
+
 ## AxeFighterName
 Axe Fighter[X]
 
@@ -77,6 +86,12 @@ Axe Fighter[X]
 Bow Fighter[X]
 
 ## BowFighterDesc
+.[X]
+
+## WarriorName
+Warrior[X]
+
+## WarriorDesc
 .[X]
 
 ## BrigandName
@@ -237,6 +252,9 @@ Axe Cav[X]
 
 ## RookKnightName
 Rook Knight[X]
+
+## RookKnightDesc
+.[X]
 
 ## SwordPegName
 Sword Peg[X]
